@@ -1,6 +1,6 @@
 import unittest
 
-import hitcount
+import error_hitcount
 
 class HitCountTest(unittest.TestCase):
 
